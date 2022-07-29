@@ -1,0 +1,7 @@
+{
+  "name": "Example Ionic React Sidemenu App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
